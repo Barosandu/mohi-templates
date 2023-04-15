@@ -1,0 +1,24 @@
+.col{
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+.row{
+    display: flex !important;
+    flex-direction: row !important;
+}
+
+.jcenter{
+    justify-content: center;
+}
+.alcenter{
+    align-items: center;
+}
+
+.jstart{
+    justify-content: flex-start;
+}
+
+.alstart{
+    align-items: start;
+}

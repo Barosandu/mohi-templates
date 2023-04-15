@@ -1,0 +1,37 @@
+<body>
+    <div class = "f c">
+        <h1>Mohican add templates [WIP]</h1>
+        <div class="c edge">
+            <form action="/templates">
+                <label for="type">Type: [simple for now]</label><br>
+                <input type="text" id="type" name="type" value="simple"><br>
+                <br>
+                <label for="id">Id: [s1,s2,...]</label><br>
+                <input type="text" id="id" name="id" value="s1">
+                <br>
+                <input type="submit" value="Submit">
+            </form>
+    
+        </div>
+
+    </div>
+</body>
+
+
+<style>
+    .edge{
+        border: 2px solid black;
+        width: min-content;
+        padding: 20px;
+    }
+
+    .f {
+        width: 100% !important;
+    }
+
+    .c{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+</style>

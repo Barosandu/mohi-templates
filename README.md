@@ -3,6 +3,9 @@
 ./start.sh
 ```
 
+# Medium: use this
+- https://www.template.net/editable/ad-templates-html
+
 
 # Perhaps use this?
 - https://www.template.net/editable/17112/contest-email-ad

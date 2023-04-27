@@ -1,1 +1,3 @@
 company_name headline background link_btn_text main_text text2 text3
+##
+@sharp @inset @horizontal @mono @img @color#2 @transparency @transparency#2

@@ -1,0 +1,1 @@
+company_name headline logo background link_btn_text link_btn2_text link_btn3_text main_text text2 img1 img2 img3

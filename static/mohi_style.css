@@ -3,12 +3,14 @@
 **/
 
 body {
-    background-color: #1C1C1EFF;
+    background-color: rgb(255, 255, 255);
 }
 
 a {
     text-decoration: none;
     color: #00d9ff;
+    padding: 0 0 0 0 !important;
+    margin: 0 0 0 0 !important;
 }
 
 .f7card {
@@ -104,6 +106,12 @@ a {
     margin: 20px;
 }
 
+.margin-horizontal {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
 .margin.little {
     margin: 5px;
 }
@@ -119,6 +127,9 @@ a {
 }
 .padding-top {
     padding-top: 20px;
+}
+.padding-left {
+    padding-left: 20px;
 }
 .padding-bottom {
     padding-bottom: 20px !important;
@@ -434,5 +445,15 @@ html {
 
 .absolute{
     position: absolute;
+}
+
+.bold *{
+    font-weight: bold !important;
+}
+
+.elegant * {
+    font-weight: lighter;
+    text-transform: uppercase;
+    text-align: center;
 }
 

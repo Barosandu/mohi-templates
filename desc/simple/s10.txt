@@ -1,0 +1,3 @@
+company_name headline background link_btn_text main_text
+##
+@rounded @circle @arranged @mono @img @bi 

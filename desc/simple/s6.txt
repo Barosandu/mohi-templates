@@ -1,0 +1,3 @@
+company_name headline logo background link_btn_text main_text
+##
+@horizontal @transparency @transparency#2 @horizontal @floating

@@ -1,0 +1,3 @@
+company_name headline logo background
+##
+@sharp @split @2 @with-head @card @post @vertical @mono @img @color#0

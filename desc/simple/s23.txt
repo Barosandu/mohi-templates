@@ -1,0 +1,3 @@
+company_name headline logo background link_btn_text main_text
+##
+@card @horizontal @circle @transparency @transparency#1 @horizontal @arranged @floating
